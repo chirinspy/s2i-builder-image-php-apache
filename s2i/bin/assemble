@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Prereq
 #  * Source contents are aligned with the following directories:
